@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background-color: black;
+}
+
+.Name [
+    width: 500px;
+    height: 500px;
+]
+
+.Maps [
+    width: 400px;
+    height: 400px;
+]
+
+h2 {
+    text-align: center;
+    color: white;
+}
